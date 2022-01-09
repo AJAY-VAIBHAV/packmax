@@ -1,0 +1,38 @@
+division_name,product_name,product_model,carton_number,component_name,weight,height,width,depth,vertical_stacking_limit,horizontal_stacking_limit
+Godrej Security Solutions,Home Locker,20L,1/1,n/a,11,250,350,320,4,n/a
+Godrej Security Solutions,Home Locker,40L,1/1,n/a,16,420,350,350,4,n/a
+Godrej Security Solutions,Rhino,45L,1/1,n/a,37,425,460,410,2,n/a
+Godrej Security Solutions,Fire Resistant Safe,40L,1/1,n/a,61,545,415,435,2,n/a
+Godrej Security Solutions,Ritz,28L,1/1,n/a,22,330,400,335,3,n/a
+Godrej Appliances,Direct Cool refrigerator,RD EDGE 200 WRF 3.2,1/1,n/a,33.5,1180,576,623,3,n/a
+Godrej Appliances,Direct Cool refrigerator,RD UNO 2153 PTDF,1/1,n/a,43,1410,576,671,3,n/a
+Godrej Appliances,Direct Cool refrigerator,RD EPRO 255 TAF 3.2,1/1,n/a,45.5,1480,577,667,2,n/a
+Godrej Appliances,Frost free refrigerator,RT EON 255B 25 HI,1/1,n/a,45.6,1440,597,706,2,n/a
+Godrej Appliances,Frost free refrigerator,RT EONVIBE 366B 25 HCF,1/1,n/a,78,1760,652,676,2,n/a
+Godrej Appliances,Fully automatic washer,WT EON ALR 75 5.0 FISNS,1/1,n/a,33,985,545,620,3,n/a
+Godrej Appliances,Fully automatic washer,GWF 580A,1/1,n/a,29.5,905,560,555,3,n/a
+Godrej Appliances,Semi automatic washer,WS EDGE 700 CTP,1/1,n/a,26.5,975,820,485,3,n/a
+Godrej Appliances,Semi automatic washer,WSEDGE CLS 80 5.0 SN2 M,1/1,n/a,24.6,978,806,481,2,n/a
+Godrej Appliances,Chest Freezer,DH EPenta 325C 31CMFH2LM Rw,1/1,n/a,46,859,1010,826,2,n/a
+Godrej Appliances,Chest Freezer,DH EPenta 425C 31CMFH2LM Rw,1/1,n/a,51,859,1270,826,2,n/a
+Godrej Appliances,Chest Freezer,DH EPenta 525D 41CMFH2LM Rw,1/1,n/a,56,859,1530,826,2,n/a
+Godrej Appliances,Split Air Conditioner,GIC 12TTC3-WUA,2/1,Indoor Unit,10.2,289,849,210,10,n/a
+,Split Air Conditioner,,2/2,Outdoor Unit,25.4,545,780,320,3,n/a
+Godrej Appliances,Split Air Conditioner,GIC 18TGC3-WUA,2/1,Indoor Unit,11.5,300,970,235,10,n/a
+,Split Air Conditioner,,2/2,Outdoor Unit,28.5,592,858,312,3,n/a
+Godrej Interio,Storwel,M2,1/1,n/a,83,1980,916,486,0,n/a
+Godrej Interio,Storwel,M3,1/1,n/a,83,1980,916,486,0,n/a
+Godrej Interio,Wardrobe,H,1/1,n/a,84,1980,1018,537,0,n/a
+Godrej Interio,Wardrobe,H1,1/1,n/a,88,1980,1018,537,0,n/a
+Godrej Interio,Centurion,C1,1/1,n/a,121,1982,1019,543,0,n/a
+Godrej Interio,Slimline,2 door Model H body,1/1,n/a,48,2155,520,105,n/a,10
+Godrej Interio,Slimline,2 Door,1/1,n/a,18,1835,485,50,n/a,10
+Godrej Interio,Slimline,3 door half lockker & partition body,2/1,Locker,52,2155,540,135,n/a,10
+,Slimline,,2/2,Partition,13,1465,475,60,n/a,10
+Godrej Interio,Slimline,3 Door,1/1,n/a,26,1835,485,75,n/a,10
+Godrej Interio,MORF BED BASE KING,MORF HYD. STORAGE BED BASE KING,5/1,Box A,21,45,1945,490,15,n/a
+,MORF BED BASE KING,,5/2,Box B,21,45,2080,460,15,n/a
+,MORF BED BASE KING,,5/3,Box C,61,55,2070,920,15,n/a
+,MORF BED BASE KING,,5/4,Box D,44,60,2050,955,15,n/a
+,MORF BED BASE KING,,5/5,Box E,27,125,2080,520,15,n/a
+Godrej Interio,HEADBOARD,LATTICE KING HEADBOARD,1/1,n/a,41,125,1950,570,15,n/a
